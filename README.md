@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushkashyapp
+- 👋 Hi, I’m @Ayushkashyap
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Next js , django
 - 💞️ I’m looking to collaborate on ...
